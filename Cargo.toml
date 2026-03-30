@@ -1,6 +1,6 @@
 [package]
 name = "holidayfyi"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["FYIPedia"]
 description = "Holiday dates, Easter calculation, and 200+ country calendars — async API client for holidayfyi.com."
